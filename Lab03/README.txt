@@ -1,7 +1,7 @@
-#執行方式：
+執行方式：
 在linux 系統輸入 make，即可執行。
 
-#Lab3 說明
+Lab3 說明
 有3個interface，
 AXI Stream in
 AXI Stream out
